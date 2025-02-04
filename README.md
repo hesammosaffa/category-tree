@@ -8,8 +8,8 @@
 
   <p align="center">Tree Category Management System using NestJS, TypeScript, and MySQL.</p>
 
-  <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
-  [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
+  [![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
+  [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)
 
 ## Description
 <p align="left"> To design and implement a tree-based category management system using **NestJS**, **TypeScript**, **MySQL**, and **TypeORM** or **Prisma**, the development environment will first be set up. Using NestJS, the required modules and services will be defined. For category management, **TypeORM** or **Prisma** will be utilized to define data models and perform CRUD operations.
@@ -22,7 +22,7 @@ Retrieving a specific category
 Deleting categories
 Unit and end-to-end (e2e) tests will be implemented for each service to ensure functionality and reliability. Finally, the project will be created as a private repository in GitLab, with access provided to the necessary users.
 
-GitHub: https://github.com/hesammosaffa/coinoverse-tasck.git
+GitHub: https://github.com/hesammosaffa/category-tree.git
 
 </p>
 
